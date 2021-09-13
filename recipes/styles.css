@@ -1,0 +1,42 @@
+/* Bialys CSS */
+
+.bial {
+    background-color: green;
+    color: white;
+    font-size: 50px;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.bagel {
+    height: auto;
+    width: 500px;
+}
+
+.head {
+    font-size: 40px;
+    color: white;
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+p {
+    background-color: #ac8400;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 30px;
+}
+
+ul {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+ol {
+    font-size: 30px;
+
+}
+
