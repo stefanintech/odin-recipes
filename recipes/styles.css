@@ -21,22 +21,5 @@
     text-align: center;
 }
 
-p {
-    background-color: #ac8400;
-    color: white;
-    font-family: 'Courier New', Courier, monospace;
-    text-align: center;
-    font-size: 30px;
-}
-
-ul {
-    font-size: 30px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-}
-
-ol {
-    font-size: 30px;
-
-}
+/* Finadene */
 
